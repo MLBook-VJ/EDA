@@ -10,5 +10,5 @@ Three csv files
 Details of the data is shared in the Chapter 4, with each column values.
 
 ### Notebook Changes
-The working direcotory command needs to be changed, to the path where the data is copied on user machine.
+The working directory needs to be changed, to the path where the data is copied on user machine.
 The package utilzied should be installed before running the notebook.
